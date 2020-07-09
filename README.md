@@ -16,3 +16,6 @@ pip install termcolor
 ```
 ## Screenshots
 
+[![Screenshot 1](https://github.com/anubhab-code/InShorts/blob/master/Screenshots/1.png "Screenshot 1")](https://github.com/anubhab-code/InShorts/blob/master/Screenshots/1.png "Screenshot 1")
+
+[![Screenshot 2](https://github.com/anubhab-code/InShorts/blob/master/Screenshots/2.png "Screenshot 2")](https://github.com/anubhab-code/InShorts/blob/master/Screenshots/2.png "Screenshot 2")
